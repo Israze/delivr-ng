@@ -22,7 +22,7 @@ GET /
 
 ### Cities & States
 ```
-GET /api/cities                  → all 37 states + FCT
+GET /api/cities                  → all 37 states (+ FCT)
 GET /api/cities/:code            → single state with all LGAs
 ```
 
@@ -183,4 +183,4 @@ MIT — free to use in personal and commercial projects.
 
 ---
 
-Built with ❤️ for Nigerian developers by [thegreaterdev](https://github.com/Israze)
+Built with ❤️ for Nigerian developers by [thegreaterdev](https://github.com/thegreaterdev)
