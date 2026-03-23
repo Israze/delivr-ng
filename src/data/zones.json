@@ -1,0 +1,51 @@
+[
+  {
+    "id": "lagos-island",
+    "name": "Lagos Island Zone",
+    "city": "lagos",
+    "areas": ["Victoria Island", "Lekki", "Ajah"],
+    "surcharge": 200
+  },
+  {
+    "id": "lagos-mainland",
+    "name": "Lagos Mainland Zone",
+    "city": "lagos",
+    "areas": ["Yaba", "Surulere", "Oshodi", "Ikeja"],
+    "surcharge": 0
+  },
+  {
+    "id": "lagos-outskirts",
+    "name": "Lagos Outskirts Zone",
+    "city": "lagos",
+    "areas": ["Ikorodu"],
+    "surcharge": 500
+  },
+  {
+    "id": "abuja-central",
+    "name": "Abuja Central Zone",
+    "city": "abuja",
+    "areas": ["Wuse", "Garki", "Maitama", "Asokoro"],
+    "surcharge": 0
+  },
+  {
+    "id": "abuja-suburbs",
+    "name": "Abuja Suburbs Zone",
+    "city": "abuja",
+    "areas": ["Gwarinpa", "Jabi"],
+    "surcharge": 300
+  },
+  {
+    "id": "ph-central",
+    "name": "Port Harcourt Central Zone",
+    "city": "port-harcourt",
+    "areas": ["GRA", "Rumuola", "Diobu"],
+    "surcharge": 0
+  },
+  {
+    "id": "ph-outskirts",
+    "name": "Port Harcourt Outskirts Zone",
+    "city": "port-harcourt",
+    "areas": ["Eleme"],
+    "surcharge": 400
+  }
+]

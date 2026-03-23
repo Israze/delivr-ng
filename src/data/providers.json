@@ -1,0 +1,50 @@
+[
+  {
+    "id": "kwik",
+    "name": "Kwik Delivery",
+    "website": "https://kwik.delivery",
+    "vehicle_types": ["bike", "car"],
+    "base_fare": 400,
+    "per_km_rate": 100,
+    "min_distance_km": 1,
+    "max_distance_km": 50,
+    "cities": ["lagos"],
+    "active": true
+  },
+  {
+    "id": "sendbox",
+    "name": "Sendbox",
+    "website": "https://sendbox.co",
+    "vehicle_types": ["bike", "van"],
+    "base_fare": 600,
+    "per_km_rate": 120,
+    "min_distance_km": 1,
+    "max_distance_km": 100,
+    "cities": ["lagos", "abuja", "port-harcourt"],
+    "active": true
+  },
+  {
+    "id": "gig",
+    "name": "GIG Logistics",
+    "website": "https://giglogistics.com.ng",
+    "vehicle_types": ["van", "truck"],
+    "base_fare": 800,
+    "per_km_rate": 150,
+    "min_distance_km": 5,
+    "max_distance_km": 500,
+    "cities": ["lagos", "abuja", "port-harcourt", "kano", "ibadan"],
+    "active": true
+  },
+  {
+    "id": "errand360",
+    "name": "Errand360",
+    "website": "https://errand360.com",
+    "vehicle_types": ["bike"],
+    "base_fare": 350,
+    "per_km_rate": 90,
+    "min_distance_km": 1,
+    "max_distance_km": 30,
+    "cities": ["lagos", "abuja"],
+    "active": true
+  }
+]

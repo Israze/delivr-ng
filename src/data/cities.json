@@ -1,0 +1,67 @@
+[
+  {
+    "id": "lagos",
+    "name": "Lagos",
+    "state": "Lagos",
+    "coordinates": { "lat": 6.5244, "lng": 3.3792 },
+    "areas": [
+      { "name": "Yaba", "coordinates": { "lat": 6.5058, "lng": 3.3765 } },
+      { "name": "Lekki", "coordinates": { "lat": 6.4698, "lng": 3.5852 } },
+      { "name": "Ikeja", "coordinates": { "lat": 6.6018, "lng": 3.3515 } },
+      { "name": "Surulere", "coordinates": { "lat": 6.5054, "lng": 3.3523 } },
+      { "name": "Victoria Island", "coordinates": { "lat": 6.4281, "lng": 3.4219 } },
+      { "name": "Ikorodu", "coordinates": { "lat": 6.6194, "lng": 3.5106 } },
+      { "name": "Ajah", "coordinates": { "lat": 6.4667, "lng": 3.6167 } },
+      { "name": "Oshodi", "coordinates": { "lat": 6.5567, "lng": 3.3350 } }
+    ]
+  },
+  {
+    "id": "abuja",
+    "name": "Abuja",
+    "state": "FCT",
+    "coordinates": { "lat": 9.0579, "lng": 7.4951 },
+    "areas": [
+      { "name": "Wuse", "coordinates": { "lat": 9.0667, "lng": 7.4833 } },
+      { "name": "Garki", "coordinates": { "lat": 9.0333, "lng": 7.4833 } },
+      { "name": "Maitama", "coordinates": { "lat": 9.0833, "lng": 7.4833 } },
+      { "name": "Gwarinpa", "coordinates": { "lat": 9.1167, "lng": 7.4167 } },
+      { "name": "Asokoro", "coordinates": { "lat": 9.0333, "lng": 7.5167 } },
+      { "name": "Jabi", "coordinates": { "lat": 9.0833, "lng": 7.4500 } }
+    ]
+  },
+  {
+    "id": "port-harcourt",
+    "name": "Port Harcourt",
+    "state": "Rivers",
+    "coordinates": { "lat": 4.8156, "lng": 7.0498 },
+    "areas": [
+      { "name": "GRA", "coordinates": { "lat": 4.8167, "lng": 7.0333 } },
+      { "name": "Rumuola", "coordinates": { "lat": 4.8333, "lng": 7.0167 } },
+      { "name": "Diobu", "coordinates": { "lat": 4.7833, "lng": 7.0167 } },
+      { "name": "Eleme", "coordinates": { "lat": 4.7667, "lng": 7.1167 } }
+    ]
+  },
+  {
+    "id": "ibadan",
+    "name": "Ibadan",
+    "state": "Oyo",
+    "coordinates": { "lat": 7.3776, "lng": 3.9470 },
+    "areas": [
+      { "name": "Bodija", "coordinates": { "lat": 7.4167, "lng": 3.9167 } },
+      { "name": "Dugbe", "coordinates": { "lat": 7.3833, "lng": 3.9000 } },
+      { "name": "Challenge", "coordinates": { "lat": 7.3667, "lng": 3.8833 } },
+      { "name": "Ojoo", "coordinates": { "lat": 7.4500, "lng": 3.9333 } }
+    ]
+  },
+  {
+    "id": "kano",
+    "name": "Kano",
+    "state": "Kano",
+    "coordinates": { "lat": 12.0022, "lng": 8.5920 },
+    "areas": [
+      { "name": "Sabon Gari", "coordinates": { "lat": 12.0167, "lng": 8.5333 } },
+      { "name": "Nassarawa", "coordinates": { "lat": 11.9833, "lng": 8.5500 } },
+      { "name": "Fagge", "coordinates": { "lat": 12.0000, "lng": 8.5167 } }
+    ]
+  }
+]
